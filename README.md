@@ -3,6 +3,8 @@
 **Description:**
 ObeSense is a predictive model built using RandomForestClassifier to classify obesity levels into five categories: "Underweight", "Normal Weight", "Obesity Level 1", "Obesity Level 2", and "Obesity Level 3". This project integrates a Streamlit application for serving predictions. Additionally, the application is containerized using Docker for easy deployment and management.
 
+It is recommended to use Python version 3.11.9
+
 **Getting Started:**
 
 **Clone the Repository:**
